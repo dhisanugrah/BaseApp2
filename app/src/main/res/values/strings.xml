@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Survey Politik</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="first_activity">Dashboard</string>
+    <string name="second_activity">Data Responden</string>
+    <string name="third_activity">Data Relawan</string>
+    <string name="fourth_activity">Settings</string>
+    <string name="fifth_activity">Laporan Hasil</string>
+    <string name="tambah_activity">Tambah Data Responden</string>
+
+    <string name="add_nama">Nama Lengkap</string>
+    <string name="add_tel">No Telepon</string>
+    <string name="add_noktp">No KTP</string>
+    <string name="add_lokasi">Alamat</string>
+    <string name="add_data">Tambah Data</string>
+
+</resources>
