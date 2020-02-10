@@ -12,4 +12,10 @@
         android:layout_height="match_parent"
         android:text="@string/fourth_activity"/>
 
+    <TextView
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/fourth_activity"/>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
